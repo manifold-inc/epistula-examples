@@ -1,0 +1,1 @@
+{ "dependencies": { "@polkadot/keyring": "^13.0.2", "@types/express": "^4.17.21", "body-parser": "^1.20.2", "express": "^4.19.2" } }
